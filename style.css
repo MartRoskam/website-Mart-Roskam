@@ -124,6 +124,8 @@ nav div a {
 
 .favouritesongs img {
     border-radius: 3em;
+    max-width: 100%;
+    max-width: 100%;
 }
 
 /* Albums */
